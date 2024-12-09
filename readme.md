@@ -2,6 +2,6 @@
   - ชื่อเล่น จ๊อบ
 
 
-![Alt text](Imge/IMG_2517.jpeg)
+![Alt text](Image/IMG_2517.jpeg)
 
 [**👉 ดู Lifecycle**](lifecycle.md)
