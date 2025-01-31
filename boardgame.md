@@ -7,13 +7,13 @@
    - นักศึกษาปี 3 คณะวิทยาการจัดการ สาขาบัญชี
    - จำนวน 3 คน
    - staff 2 คน
-![boardgame1](images/boardgame1.jpg)
-![boardgame2](images/boardgame2.jpg)
-![boardgame3](images/boardgame3.jpg)
-![boardgame4](images/boardgame4.jpg)
-![boardgame5](images/boardgame5.jpg)
+![boardgame1](Image/boardgame1.jpg)
+![boardgame2](Image/boardgame2.jpg)
+![boardgame3](Image/boardgame3.jpg)
+![boardgame4](Images/boardgame4.jpg)
+![boardgame5](Image/boardgame5.jpg)
  - ### Youtube!!!
-[![boardgame6](images/boardgame6.jpg)](https://www.youtube.com/watch?v=0B2iD-YyFcw)
+[![boardgame6](Image/boardgame6.jpg)](https://www.youtube.com/watch?v=0B2iD-YyFcw)
  - ### -Members-
 1.[Kittithorn](https://kitty340822.github.io/boardgame)
 
