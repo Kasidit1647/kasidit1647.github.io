@@ -10,7 +10,7 @@
 ![boardgame1](Image/boardgame1.jpg)
 ![boardgame2](Image/boardgame2.jpg)
 ![boardgame3](Image/boardgame3.jpg)
-![boardgame4](Images/boardgame4.jpg)
+![boardgame4](Image/boardgame4.jpg)
 ![boardgame5](Image/boardgame5.jpg)
  - ### Youtube!!!
 [![boardgame6](Image/boardgame6.jpg)](https://www.youtube.com/watch?v=0B2iD-YyFcw)
